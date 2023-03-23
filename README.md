@@ -64,7 +64,7 @@
   </a>
 </div>
 
-> </br><h4 align="center">**An Ansible role that provides a great, cross-platform starting point for developing an Ansible role**</h4></br>
+> <br/><h4 align="center">**An Ansible role that provides a great, cross-platform starting point for developing an Ansible role**</h4><br/>
 
 <!--TERMINALIZE![terminalizer_title](https://gitlab.com/megabyte-labs/ansible-roles/ansible-role* **github**: /raw/master/docs/demo.gif
 * **gitlab**: /-/raw/master/docs/demo.gif)TERMINALIZE-->
